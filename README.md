@@ -115,7 +115,7 @@ Visualisasi performa dilakukan menggunakan **Google Looker Studio** untuk menamp
 
 ## 🔗 Resources
 
-- 👨‍💻 Author: David Sebastian Aritonang  
-  📧 davidsebastianartt@gmail.com
+- 👨‍💻 Author: David Sebastian Aritonang
+- 📧 davidsebastianartt@gmail.com
 - 💻 [Link GitHub Repository](https://github.com/davidsebastianart/Kimiafarma-projectinternship/)
-  🌐 [LinkedIn](https://www.linkedin.com/in/david-sartt/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/david-sartt/)
