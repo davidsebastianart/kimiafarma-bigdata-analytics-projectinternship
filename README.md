@@ -100,6 +100,7 @@ Visualisasi performa dilakukan menggunakan **Google Looker Studio** untuk menamp
 - Cabang dengan rating tinggi namun transaksi rendah
 - Distribusi keuntungan antar provinsi
 - Dampak strategi harga dan diskon terhadap penjualan
+📊 [Dashboard Performance Analytics – Kimia Farma](https://lookerstudio.google.com/reporting/1337d917-3d5a-4308-90f1-63916fe74a4b)
 
 ## 🧠 Insights & Recommendations
 
@@ -117,6 +118,5 @@ Visualisasi performa dilakukan menggunakan **Google Looker Studio** untuk menamp
 
 - 👨‍💻 Author: David Sebastian Aritonang
 - 📧 davidsebastianartt@gmail.com
-- 📊 [Dashboard Performance Analytics – Kimia Farma](https://lookerstudio.google.com/reporting/1337d917-3d5a-4308-90f1-63916fe74a4b)
 - 💻 [Link GitHub Repository](https://github.com/davidsebastianart/Kimiafarma-projectinternship/)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/david-sartt/)
